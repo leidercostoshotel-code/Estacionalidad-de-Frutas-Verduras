@@ -1,1 +1,151 @@
+[
+  {
+    "id":1,
+    "producto":"Palta Hass",
+    "categoria":"Fruta",
+    "unidad":"kg",
+    "mercado":"Lima Mayorista",
+    "precioActual":4.82,
+    "precioAnterior":4.70,
+    "variacion":2.55,
+    "tendencia":"Subiendo",
+    "oferta":"Alta",
+    "demanda":"Alta",
+    "fecha":"2026-07-20"
+  },
 
+  {
+    "id":2,
+    "producto":"Mango Kent",
+    "categoria":"Fruta",
+    "unidad":"kg",
+    "mercado":"Piura",
+    "precioActual":6.50,
+    "precioAnterior":6.20,
+    "variacion":4.84,
+    "tendencia":"Subiendo",
+    "oferta":"Media",
+    "demanda":"Alta",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":3,
+    "producto":"Tomate",
+    "categoria":"Verdura",
+    "unidad":"kg",
+    "mercado":"Lima Mayorista",
+    "precioActual":2.60,
+    "precioAnterior":2.75,
+    "variacion":-5.45,
+    "tendencia":"Bajando",
+    "oferta":"Alta",
+    "demanda":"Media",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":4,
+    "producto":"Cebolla Roja",
+    "categoria":"Verdura",
+    "unidad":"kg",
+    "mercado":"Arequipa",
+    "precioActual":2.30,
+    "precioAnterior":2.20,
+    "variacion":4.54,
+    "tendencia":"Subiendo",
+    "oferta":"Media",
+    "demanda":"Alta",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":5,
+    "producto":"Papa Blanca",
+    "categoria":"Tubérculo",
+    "unidad":"kg",
+    "mercado":"Huánuco",
+    "precioActual":1.80,
+    "precioAnterior":1.85,
+    "variacion":-2.70,
+    "tendencia":"Estable",
+    "oferta":"Alta",
+    "demanda":"Alta",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":6,
+    "producto":"Arándano",
+    "categoria":"Fruta",
+    "unidad":"kg",
+    "mercado":"La Libertad",
+    "precioActual":12.50,
+    "precioAnterior":11.90,
+    "variacion":5.04,
+    "tendencia":"Subiendo",
+    "oferta":"Media",
+    "demanda":"Alta",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":7,
+    "producto":"Brócoli",
+    "categoria":"Verdura",
+    "unidad":"kg",
+    "mercado":"Lima",
+    "precioActual":4.50,
+    "precioAnterior":4.45,
+    "variacion":1.12,
+    "tendencia":"Estable",
+    "oferta":"Media",
+    "demanda":"Alta",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":8,
+    "producto":"Limón",
+    "categoria":"Fruta",
+    "unidad":"kg",
+    "mercado":"Piura",
+    "precioActual":3.80,
+    "precioAnterior":4.10,
+    "variacion":-7.31,
+    "tendencia":"Bajando",
+    "oferta":"Alta",
+    "demanda":"Media",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":9,
+    "producto":"Hierba Luisa",
+    "categoria":"Hierba Aromática",
+    "unidad":"kg",
+    "mercado":"Lima",
+    "precioActual":8.50,
+    "precioAnterior":8.20,
+    "variacion":3.65,
+    "tendencia":"Subiendo",
+    "oferta":"Alta",
+    "demanda":"Media",
+    "fecha":"2026-07-20"
+  },
+
+  {
+    "id":10,
+    "producto":"Pallar",
+    "categoria":"Legumbre",
+    "unidad":"kg",
+    "mercado":"Ica",
+    "precioActual":9.50,
+    "precioAnterior":9.00,
+    "variacion":5.55,
+    "tendencia":"Subiendo",
+    "oferta":"Baja",
+    "demanda":"Alta",
+    "fecha":"2026-07-20"
+  }
+]

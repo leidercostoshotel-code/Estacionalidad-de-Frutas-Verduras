@@ -1,0 +1,162 @@
+[
+  {
+    "id":1,
+    "region":"Lima",
+    "zona":"Costa",
+    "productosPrincipales":[
+      "Palta Hass",
+      "Fresa",
+      "Lechuga",
+      "Tomate",
+      "Hierbas aromáticas"
+    ],
+    "nivelProduccion":"Alto"
+  },
+
+  {
+    "id":2,
+    "region":"Ica",
+    "zona":"Costa",
+    "productosPrincipales":[
+      "Uva",
+      "Palta",
+      "Espárrago",
+      "Cebolla",
+      "Pallar"
+    ],
+    "nivelProduccion":"Alto"
+  },
+
+  {
+    "id":3,
+    "region":"Piura",
+    "zona":"Costa Norte",
+    "productosPrincipales":[
+      "Mango Kent",
+      "Limón",
+      "Banano",
+      "Uva"
+    ],
+    "nivelProduccion":"Alto"
+  },
+
+  {
+    "id":4,
+    "region":"La Libertad",
+    "zona":"Costa Norte",
+    "productosPrincipales":[
+      "Arándano",
+      "Espárrago",
+      "Papa",
+      "Palta"
+    ],
+    "nivelProduccion":"Alto"
+  },
+
+  {
+    "id":5,
+    "region":"Junín",
+    "zona":"Sierra Central",
+    "productosPrincipales":[
+      "Mandarina",
+      "Café",
+      "Jengibre",
+      "Papa",
+      "Hierbas aromáticas"
+    ],
+    "nivelProduccion":"Medio"
+  },
+
+  {
+    "id":6,
+    "region":"Arequipa",
+    "zona":"Sur",
+    "productosPrincipales":[
+      "Cebolla",
+      "Ajo",
+      "Papa",
+      "Orégano",
+      "Zanahoria"
+    ],
+    "nivelProduccion":"Alto"
+  },
+
+  {
+    "id":7,
+    "region":"Cusco",
+    "zona":"Sierra Sur",
+    "productosPrincipales":[
+      "Papa nativa",
+      "Olluco",
+      "Oca",
+      "Haba",
+      "Quinua"
+    ],
+    "nivelProduccion":"Medio"
+  },
+
+  {
+    "id":8,
+    "region":"Ayacucho",
+    "zona":"Sierra Sur",
+    "productosPrincipales":[
+      "Papa",
+      "Haba",
+      "Arveja",
+      "Quinua"
+    ],
+    "nivelProduccion":"Medio"
+  },
+
+  {
+    "id":9,
+    "region":"Cajamarca",
+    "zona":"Sierra Norte",
+    "productosPrincipales":[
+      "Lenteja",
+      "Café",
+      "Papa",
+      "Maíz"
+    ],
+    "nivelProduccion":"Medio"
+  },
+
+  {
+    "id":10,
+    "region":"San Martín",
+    "zona":"Selva",
+    "productosPrincipales":[
+      "Yuca",
+      "Cacao",
+      "Café",
+      "Plátano"
+    ],
+    "nivelProduccion":"Alto"
+  },
+
+  {
+    "id":11,
+    "region":"Amazonas",
+    "zona":"Selva",
+    "productosPrincipales":[
+      "Café",
+      "Cacao",
+      "Plátano",
+      "Hierbas amazónicas"
+    ],
+    "nivelProduccion":"Medio"
+  },
+
+  {
+    "id":12,
+    "region":"Puno",
+    "zona":"Altiplano",
+    "productosPrincipales":[
+      "Papa nativa",
+      "Quinua",
+      "Haba",
+      "Oca"
+    ],
+    "nivelProduccion":"Medio"
+  }
+]
